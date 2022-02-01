@@ -13,65 +13,65 @@
             <div class="projects-item" data-aos="fade-up" data-aos-delay="50" data-aos-duration="500"
                 data-aos-once="true">
                 <div class="projects-image">
-                    <a href="projects-details.html"><img src="{{ asset('assets/images/projects/projects-1.jpg') }}" alt="image"></a>
+                    <img src="{{ asset('assets/images/projects/projects-1.jpg') }}" alt="image">
                 </div>
                 <div class="projects-content">
-                    <h3>
-                        <a href="projects-details.html">Animacíon 3D</a>
+                    <h3 class="text-white">
+                        Animacíon 3D
                     </h3>
-                    <a href="projects-details.html" class="projects-btn">Ver más</a>
+                    {{-- <a href="projects-details.html" class="projects-btn">Ver más</a> --}}
                 </div>
             </div>
 
             <div class="projects-item" data-aos="fade-up" data-aos-delay="60" data-aos-duration="600"
                 data-aos-once="true">
                 <div class="projects-image">
-                    <a href="projects-details.html"><img src="{{ asset('assets/images/projects/projects-2.jpg') }}" alt="image"></a>
+                    <img src="{{ asset('assets/images/projects/projects-2.jpg') }}" alt="image">
                 </div>
                 <div class="projects-content">
-                    <h3>
-                        <a href="projects-details.html">Software de banca en línea</a>
+                    <h3 class="text-white">
+                        Software de banca en línea
                     </h3>
-                    <a href="projects-details.html" class="projects-btn">Ver más</a>
+                    {{-- <a href="projects-details.html" class="projects-btn">Ver más</a> --}}
                 </div>
             </div>
 
             <div class="projects-item" data-aos="fade-up" data-aos-delay="70" data-aos-duration="700"
                 data-aos-once="true">
                 <div class="projects-image">
-                    <a href="projects-details.html"><img src="{{ asset('assets/images/projects/projects-3.jpg') }}" alt="image"></a>
+                    <img src="{{ asset('assets/images/projects/projects-3.jpg') }}" alt="image">
                 </div>
                 <div class="projects-content">
-                    <h3>
-                        <a href="projects-details.html">Software de cajero</a>
+                    <h3 class="text-white">
+                        Software de cajero
                     </h3>
-                    <a href="projects-details.html" class="projects-btn">Ver más</a>
+                    {{-- <a href="projects-details.html" class="projects-btn">Ver más</a> --}}
                 </div>
             </div>
 
             <div class="projects-item" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800"
                 data-aos-once="true">
                 <div class="projects-image">
-                    <a href="projects-details.html"><img src="{{ asset('assets/images/projects/projects-4.jpg') }}" alt="image"></a>
+                    <img src="{{ asset('assets/images/projects/projects-4.jpg') }}" alt="image">
                 </div>
                 <div class="projects-content">
-                    <h3>
-                        <a href="projects-details.html">Software de análisis</a>
+                    <h3 class="text-white">
+                        Software de análisis
                     </h3>
-                    <a href="projects-details.html" class="projects-btn">Ver más</a>
+                    {{-- <a href="projects-details.html" class="projects-btn">Ver más</a> --}}
                 </div>
             </div>
 
             <div class="projects-item" data-aos="fade-up" data-aos-delay="90" data-aos-duration="900"
                 data-aos-once="true">
                 <div class="projects-image">
-                    <a href="projects-details.html"><img src="{{ asset('assets/images/projects/projects-5.jpg') }}" alt="image"></a>
+                    <img src="{{ asset('assets/images/projects/projects-5.jpg') }}" alt="image">
                 </div>
                 <div class="projects-content">
-                    <h3>
-                        <a href="projects-details.html">Aplicación de mensajería</a>
+                    <h3 class="text-white">
+                        Aplicación de mensajería
                     </h3>
-                    <a href="projects-details.html" class="projects-btn">Ver más</a>
+                    {{-- <a href="projects-details.html" class="projects-btn">Ver más</a> --}}
                 </div>
             </div>
         </div>

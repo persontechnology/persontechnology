@@ -39,7 +39,7 @@
     <!-- End Pricing Area -->
 
     <!-- Start Blog Area -->
-    @livewire('estaticas.blog-area')
+    {{-- @livewire('estaticas.blog-area') --}}
     <!-- End Blog Area -->
 
     <!-- Start Overview Area -->
