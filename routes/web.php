@@ -1,10 +1,19 @@
 <?php
-
+use Illuminate\Support\Facades\Artisan;
 use App\Http\Controllers\EstaticasController;
 use Illuminate\Support\Facades\Route;
 use Tabuna\Breadcrumbs\Trail;
 
-
+Route::get('/limpiar-cache', function () {
+    
+    Artisan::call('cache:clear');
+    Artisan::call('config:clear');
+    Artisan::call('config:cache');
+    return 'ok';
+    // Artisan::call('storage:link');
+    // Artisan::call('key:generate');
+    // Artisan::call('migrate:fresh --seed');
+});
 Route::get('/', function () {
     return view('welcome');
 })->name('welcome')
