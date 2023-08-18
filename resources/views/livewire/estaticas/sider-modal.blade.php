@@ -6,7 +6,7 @@
 
             <div class="modal-body">
                 <a href="index.html">
-                    <img src="{{ asset('assets/images/black-logo.png') }}" alt="logo">
+                    <img src="{{ asset('assets/images/persontechnology_dark.svg') }}" alt="logo">
                 </a>
                 <div class="sidebar-content">
                     <h3>Sobre nosotros</h3>

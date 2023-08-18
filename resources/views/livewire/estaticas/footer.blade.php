@@ -5,7 +5,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-footer-widget" data-aos="fade-up" data-aos-delay="50" data-aos-duration="500" data-aos-once="true">
                     <div class="widget-logo">
-                        <a href="index.html"><img src="{{ asset('assets/images/logo.png') }}" alt="image"></a>
+                        <a href="index.html"><img src="{{ asset('assets/images/persontechnology.svg') }}" alt="image"></a>
                     </div>
                     <p>
                         Somos una empresa ecuatoriana que diseña y produce equipos electrónicos, software y servicios en línea.
