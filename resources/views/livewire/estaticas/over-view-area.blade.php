@@ -33,7 +33,7 @@
                 <div class="overview-card">
                     <h3>Envíenos un correo electrónico</h3>
                     <span>
-                        <a href="">info@persontechnology.com</a>
+                        <a href="">info@persontechnologys.com</a>
                     </span>
 
                     <div class="overview-shape">
@@ -47,7 +47,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="overview-card">
                     <h3>Visítanos</h3>
-                    <span>León Garces y Anillo Vial <br> Salcedo-Cotopaxi-Ecuador</span>
+                    <span>24 de mayo y 9 de octubre, Frente a CACPECO <br> Salcedo-Cotopaxi-Ecuador</span>
                     <div class="overview-shape">
                         <img src="{{ asset('assets/images/overview/overview-shape.png') }}" alt="image">
                     </div>

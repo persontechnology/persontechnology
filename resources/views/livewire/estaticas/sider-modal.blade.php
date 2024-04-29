@@ -24,10 +24,10 @@
                     <ul class="info-list">
                         <li><i class="ri-phone-fill"></i> +593-998-808-775</li>
 
-                        <li><i class="ri-mail-line"></i> info@persontechnology.com
+                        <li><i class="ri-mail-line"></i> info@persontechnologys.com
                         </li>
-
-                        <li><i class="ri-map-pin-line"></i> León Garces y Anillo Vial <br>Salcedo-Cotopaxi-Ecuador                        </li>
+                        
+                        <li><i class="ri-map-pin-line"></i> 24 de mayo y 9 de octubre, Frente a CACPECO <br>Salcedo-Cotopaxi-Ecuador                        </li>
                     </ul>
                 </div>
                 <ul class="sidebar-social-list">
