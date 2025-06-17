@@ -19,7 +19,7 @@
                 <div class="overview-card">
                     <h3>Apoyo técnico</h3>
                     <span>
-                        <a href="tel:593985970091">+(593)-985-970-091</a>
+                        <a href="tel:593985970091">+(593)-984-694-906</a>
                     </span>
 
                     <div class="overview-shape">
@@ -33,7 +33,7 @@
                 <div class="overview-card">
                     <h3>Envíenos un correo electrónico</h3>
                     <span>
-                        <a href="">info@persontechnologys.com</a>
+                        <a href="">info@persontechnology.net</a>
                     </span>
 
                     <div class="overview-shape">
